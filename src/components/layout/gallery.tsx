@@ -51,7 +51,6 @@ export default function Gallery() {
                                                 src="https://html.tailus.io/blocks/customers/column.svg"
                                                 alt="Column Logo"
                                                 height="16"
-                                                width="auto"
                                             />
                                         </div>
                                         <div className="flex">
@@ -60,7 +59,6 @@ export default function Gallery() {
                                                 src="https://html.tailus.io/blocks/customers/nvidia.svg"
                                                 alt="Nvidia Logo"
                                                 height="20"
-                                                width="auto"
                                             />
                                         </div>
                                         <div className="flex">
@@ -69,7 +67,6 @@ export default function Gallery() {
                                                 src="https://html.tailus.io/blocks/customers/github.svg"
                                                 alt="GitHub Logo"
                                                 height="16"
-                                                width="auto"
                                             />
                                         </div>
                                     </div>
