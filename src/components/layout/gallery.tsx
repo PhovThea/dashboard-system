@@ -46,7 +46,7 @@ export default function Gallery() {
                                     <p className="text-muted-foreground">Trusted by teams at :</p>
                                     <div className="mt-6 grid max-w-sm grid-cols-3 gap-6">
                                         <div className="flex">
-                                            <img
+                                            <Image
                                                 className="h-4 w-fit"
                                                 src="https://html.tailus.io/blocks/customers/column.svg"
                                                 alt="Column Logo"
@@ -55,7 +55,7 @@ export default function Gallery() {
                                             />
                                         </div>
                                         <div className="flex">
-                                            <img
+                                            <Image
                                                 className="h-5 w-fit"
                                                 src="https://html.tailus.io/blocks/customers/nvidia.svg"
                                                 alt="Nvidia Logo"
@@ -64,7 +64,7 @@ export default function Gallery() {
                                             />
                                         </div>
                                         <div className="flex">
-                                            <img
+                                            <Image
                                                 className="h-4 w-fit"
                                                 src="https://html.tailus.io/blocks/customers/github.svg"
                                                 alt="GitHub Logo"
