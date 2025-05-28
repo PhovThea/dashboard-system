@@ -8,7 +8,7 @@ export default function Page(){
       <div className="flex w-full max-w-sm flex-col gap-6">
         <a href="#" className="flex items-center gap-2 self-center font-medium">
             <Image
-                  src="/logo.png"
+                  src="/logo_1.png"
                   alt="app screen"
                   width="200"
                   height="200"
